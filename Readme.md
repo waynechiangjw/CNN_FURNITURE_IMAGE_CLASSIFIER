@@ -13,7 +13,7 @@ The recent increase in listings of items on our Carousell platform due to the pa
 
 As such, the Data Team has been tasked to develop possible methods to help minimise such incidents from happening on the platform. The team has decide to conduct a pilot test to examine if Deep learning Convolutionary Neural Network(CNN) Image Classification Model could be one of the methods deployed to combat the misclassification of listings. The model will be evaluated on its confusion matrix and the calculations that come out of it(accuracy, sensitivity, specificity and precision).
 
-As there is no particle importance in which class(furniture item) is more important than the other, accuracy scores will be our main focus in determining which model is the best performer. If the model was deemed to be a success, it could be systematically deployed across the different categories to combat the issue of incorrect listings.
+As there is no particular importance in which class(furniture item) is more important than the other, accuracy scores will be our main focus in determining which model is the best performer. If the model was deemed to be a success, it could be systematically deployed across the different categories to combat the issue of incorrect listings.
 
 # 3. Data
 The data for a CNN model comes in the form of images in both jpg and jpeg formats. As images were scrapped using a google extension where the sizes(height,width) can be filtered, there will not be a need to check if there are any outliers in terms of size. Table and bed are meant for training the CNN model, while REAL_POSTS_table and REAL_POST_bed are images directly from Carousell's recent listings and will be used to check the accuracy of the best CNN model.
