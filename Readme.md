@@ -2,7 +2,7 @@
 
 # 1. Background
 
-marketplace for buying and selling secondhand goods. They operate in Singapore, Malaysia, Philippines, Cambodia, Taiwan, Hong Kong, Macau, Australia, New Zealand and Canada.
+Carousell is a marketplace for buying and selling secondhand goods. They operate in Singapore, Malaysia, Philippines, Cambodia, Taiwan, Hong Kong, Macau, Australia, New Zealand and Canada.
 
 As of 2016, over 23 million items have been sold on the platform and has a total listing of over 57 million items, both used and new. Carousell has also successfully received mulitple rounds of investments from multiple investors, which are all indicators of a fast growing firm that heavily relies on their consumers and the experiences they gain from using their platform.
 
